@@ -1,0 +1,44 @@
+
+
+Ali Ahmed 15091519-077
+HTML  5 tags
+1:<aside>
+The<aside> tag defines some content aside from the content it is placed in.
+The aside content should be related to the surrounding content.
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+2:<detail>:
+The <details> tag specifies additional details that the user can view or hide
+on demand.
+
+The <details> tag can be used to create an interactive widget that the user
+can open and close. Any sort of content can be put inside the <details>
+tag.
+
+The content of a <details> element should not be visible unless the open
+attribute is set.
+
+
+
+
+
+ 
+
+3:<dialog>:
+The <dialog> tag defines a dialog box or window.
+The<dialog> element makes it easy to create popup dialogs and modals on a
+web page.
+
+
+
