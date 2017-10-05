@@ -1,0 +1,32 @@
+Nav tag:
+The <nav> tag defines a set of navigation links.
+ NOT all links of a document should be inside a <nav> element. The <nav> element is intended only for major block of navigation links.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. 
+Mark:
+he <mark> tag defines marked text.
+Use the <mark> tag if you want to highlight parts of your text.
+<p>Do not forget to buy <mark>milk</mark> today.</p>
+.
+.
+.
+.
+.
+.
+.
+.
+Small:
+The <small> tag defines smaller text (and other side comments).
+<p>Hi bay</p>
+<p><small>Am here for you</small></p>
+
